@@ -16,3 +16,7 @@ What Reliable *can* do is create a widely adopted trust standard inside the plat
 So the real value of Reliable at scale is not absolute control over real life. It is **stronger trust, lower uncertainty, and a more reliable relationship environment inside the platform**.
 
 In simple words: the more people use it, the more powerful the trust signal becomes.
+
+## Caution
+
+This app is currently offline because no server API has been added yet. To use Reliable properly, you need to connect it to your own server or backend. Once a server is added and the app is linked to it, the full partner-linking and verification flow will work as intended.
